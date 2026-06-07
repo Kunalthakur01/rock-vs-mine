@@ -103,7 +103,7 @@ Mine
 ---
 ## Prediction Output
 
-![Prediction](Screenshot_2026-06-07_155348.png")
+![Prediction](https://github.com/Kunalthakur01/rock-vs-mine/blob/main/Screenshot%202026-06-07%20155348.png?raw=true)
 ## 📂 Project Structure
 
 ```text
