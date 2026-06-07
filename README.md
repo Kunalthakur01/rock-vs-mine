@@ -77,6 +77,9 @@ The Logistic Regression algorithm was used because:
 Dataset split into:
 - Training Data
 - Testing Data
+
+
+
 ### 6. Model Training
 ```python
 model = LogisticRegression()
@@ -85,6 +88,9 @@ model = LogisticRegression()
 Accuracy is calculated for:
 - Training Data
 - Testing Data
+## Model Accuracy
+
+![Accuracy](images/Screenshot 2026-06-07 154726.png)
 ### 8. Prediction System
 The trained model accepts new SONAR readings and predicts:
 ```text
