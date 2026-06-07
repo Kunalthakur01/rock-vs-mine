@@ -90,7 +90,7 @@ Accuracy is calculated for:
 - Testing Data
 ## Model Accuracy
 
-![Accuracy](Screenshot_2026-06-07_154726.png)
+![Accuracy]([Screenshot_2026-06-07_154726.png](https://github.com/Kunalthakur01/rock-vs-mine/blob/main/Screenshot%202026-06-07%20154726.png?raw=true))
 
 ### 8. Prediction System
 The trained model accepts new SONAR readings and predicts:
