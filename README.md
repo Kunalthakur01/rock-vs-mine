@@ -90,7 +90,8 @@ Accuracy is calculated for:
 - Testing Data
 ## Model Accuracy
 
-![Accuracy](images/Screenshot 2026-06-07 154726.png)
+![Accuracy](images/Screenshot_2026-06-07_154726.png)
+
 ### 8. Prediction System
 The trained model accepts new SONAR readings and predicts:
 ```text
@@ -101,7 +102,9 @@ or
 Mine
 ```
 ---
+## Prediction Output
 
+![Prediction](images/Screenshot_2026-06-07_155348.png")
 ## 📂 Project Structure
 
 ```text
